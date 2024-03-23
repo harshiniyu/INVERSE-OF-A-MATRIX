@@ -14,7 +14,7 @@ We can find the inverse of the martix by using np.linalg.inv and passing the mat
 ### Step 4: 
 Finally, print the value of the inverse of the matrix.
 ## Program:
-'''
+```
 #Program to find the inverse of a matrix.
 #Developed by: Harshini Y
 #RegisterNumber:212223240050
@@ -22,7 +22,7 @@ import numpy as np
 A=[[2,1,1],[1,1,1],[1,-1,2]]
 B=np.linalg.inv(A)
 print(B)
-'''
+```
 ## Output:
 ![Screenshot 2024-03-14 225741](https://github.com/harshiniyu/INVERSE-OF-A-MATRIX/assets/144979786/3554d156-97eb-46d7-bad6-84e1c3c51f2c)
 
